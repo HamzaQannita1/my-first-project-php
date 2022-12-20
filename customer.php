@@ -83,7 +83,7 @@ class  Employees
             }
         }
         public function select_data($id){
-
+//Another way to solve...
         //     $query = "SELECT * FROM customer WHERE id = '$id'";
         //     $result = $this->con->query($query);
         // if ($result->num_rows > 0) {
